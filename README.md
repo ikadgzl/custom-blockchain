@@ -2,6 +2,6 @@ This is my blockchain project, built with javascript and nodejs(express framewor
 
 # How to run the project?
 
-1.first npm install to install the dependencies, such as express.
-2.inside the separate terminals, follow the command in package.json -> scripts to create separate network nodes.
+1.first npm install to install the dependencies, such as express.<br>
+2.inside the separate terminals, follow the command in package.json -> scripts to create separate network nodes.<br>
 3.test the end points.
